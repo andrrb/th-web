@@ -1,0 +1,20 @@
+{
+  "name": "taskboard",
+  "version": "1.0.0",
+  "scripts": {
+    "server": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
